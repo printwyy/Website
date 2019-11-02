@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: SMU-IoT
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 物联网科协
 language: en
 timezone: ''
 
@@ -94,5 +94,6 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: ''
+deploy: 
+  type: git
+  repo: https://github.com/SMU-IoT/SMU-IoT.github.io.git
