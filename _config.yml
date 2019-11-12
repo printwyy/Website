@@ -96,8 +96,8 @@ theme: amber
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  # repo: https://github.com/SMU-IoT/SMU-IoT.github.io.git
-  repository:
-    github: git@github.com:SMU-IoT/SMU-IoT.github.io.git
-    coding: git@git.coding.net:taylorfelix/taylorfelix.coding.me.git
+  repo: https://github.com/SMU-IoT/SMU-IoT.github.io.git
+   #repository:
+   # github: git@github.com:SMU-IoT/SMU-IoT.github.io.git
+   # coding: git@git.coding.net:taylorfelix/taylorfelix.coding.me.git
   branch: master
